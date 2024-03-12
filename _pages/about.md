@@ -23,11 +23,11 @@ My research interests lie in Computer Vision, such as Video Understanding, and E
 # Research
 ---
 <!--Paper 1-->
-<div class="row">   
-    <div class="column" style="float:none;margin:0 auto;text-align:center;"> 
+<div class="row" style="text-align:center;">   
+    <div class="column" style="display:inline-block;"> 
      	  <img src="../images/maga.png" style="margin-bottom:10px;">
     </div>
-    <div class="column" style="float:none;width:100%;text-align:center;">    
+    <div class="column" style="display:inline-block;">    
         <p style="font-size: smaller;">
             <b>ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation</b><br>
             Guanxing Lu, <b>Shiyi Zhang</b>, Ziwei Wang, Changliu Liu, Jiwen Lu and Yansong Tang.<br>
