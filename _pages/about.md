@@ -23,6 +23,24 @@ My research interests lie in Computer Vision, such as Video Understanding, and E
 # Research
 ---
 
+<tr>
+  <td style="padding:20px;width:30%;max-width:30%" align="center">
+    <img style="width:100%;max-width:100%" src="images/logo.png" alt="dise">
+  </td>
+  <td width="75%" valign="center">
+    <papertitle>LOGO: A Long-Form Video Dataset for Group Action Quality Assessment</papertitle>
+    <br>
+    Shiyi Zhang, Wenxun Dai, Sujia Wang, Xiangwei Shen, Jiwen Lu, Jie Zhou, <strong>Yansong Tang#</strong>
+    <br>
+    <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</em>, 2023
+    <br>
+    <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_LOGO_A_Long-Form_Video_Dataset_for_Group_Action_Quality_Assessment_CVPR_2023_paper.pdf">[PDF]</a>
+    <a href="https://github.com/shiyi-zh0408/LOGO">[Project Page]</a> 
+    <br>
+    <p> LOGO is a new multi-person long-form video dataset for action quality assessment.</p>
+  </td>
+</tr>	
+
 <div class="row" style="text-align:center;">   
     <div class="column" style="display:inline-block;text-align:center;"> 
      	  <img src="../images/maga.png" style="margin-bottom:10px;display:block;margin-left:auto;margin-right:auto;">
