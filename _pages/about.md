@@ -22,6 +22,22 @@ My research interests lie in Computer Vision, such as Video Understanding, and E
 ---
 # Research
 ---
+
+<div class="row" style="text-align:center;">   
+    <div class="column" style="display:inline-block;text-align:center;"> 
+     	  <img src="../images/maga.png" style="margin-bottom:10px;display:block;margin-left:auto;margin-right:auto;">
+    </div>
+    <div class="column" style="display:inline-block;text-align:center;">    
+        <p style="font-size: smaller;text-align:left;display:inline-block;">
+            <b>ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation</b><br>
+            Guanxing Lu, <b>Shiyi Zhang</b>, Ziwei Wang, Changliu Liu, Jiwen Lu and Yansong Tang.<br>
+            <i>Preprint</i><br>
+            <br>
+            We propose a dynamic Gaussian Splatting method named ManiGaussian for multi-task robotic manipulation, which mines scene dynamics via future scene reconstruction.
+        </p>
+    </div> 
+</div>
+
 <!--Paper 1-->
 <div class="row" style="text-align:center;">   
     <div class="column" style="display:inline-block;"> 
