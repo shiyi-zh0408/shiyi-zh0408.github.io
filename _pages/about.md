@@ -24,7 +24,8 @@ Research
     <div class="column" style="float:left;width:75%">    
         <b>LOGO: A Long-Form Video Dataset for Group Action Quality Assessment</b><br>
         <b>Shiyi Zhang</b>,Wenxun Dai, Sujia Wang, Xiangwei Shen, Jiwen Lu, Jie Zhou, Yansong Tang<br>
-        IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023<br>
+         <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)</i>, 2023<br>
+        <br>
         LOGO is a new multi-person long-form video dataset for action quality assessment.
     </div> 
 </div>
