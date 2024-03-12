@@ -25,7 +25,7 @@ My research interests lie in Computer Vision, such as Video Understanding, and E
 
 <tr>
   <td style="padding:20px;width:30%;max-width:30%" align="center">
-    <img style="width:100%;max-width:100%" src="images/logo.png" alt="dise">
+    <img style="width:100%;max-width:100%" src="../images/logo.png" alt="dise">
   </td>
   <td width="75%" valign="center">
     <papertitle>LOGO: A Long-Form Video Dataset for Group Action Quality Assessment</papertitle>
