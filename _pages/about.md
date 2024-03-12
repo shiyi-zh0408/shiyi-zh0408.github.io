@@ -14,6 +14,11 @@ My research interests lie in Computer Vision, such as Video Understanding, and E
 [Email](mailto:sy-zhang23@mails.tsinghua.edu.cn) / [Github](https://github.com/shiyi-zh0408)
 
 ---
+News
+---
+* 2024-03: One paper on video understanding (Narrative Action Evaluation) is accepted to [CVPR 2024](https://cvpr.thecvf.com/)
+* 2023-03: One paper on video understanding (Action Quality Assessment) is accepted to [CVPR 2023](https://cvpr.thecvf.com/Conferences/2023)
+---
 Research
 ---
 <!--Paper 1-->
