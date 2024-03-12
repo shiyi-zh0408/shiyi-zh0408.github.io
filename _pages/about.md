@@ -23,7 +23,7 @@ Research
     </div>
     <div class="column" style="float:left;width:75%">    
         <b>ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation</b><br>
-        <b>Guanxing Lu, <b>Shiyi Zhang</b>, Ziwei Wang, Changliu Liu, Jiwen Lu and Yansong Tang.<br>
+        Guanxing Lu, <b>Shiyi Zhang</b>, Ziwei Wang, Changliu Liu, Jiwen Lu and Yansong Tang.<br>
         <i>Preprint</i><br>
         <br>
         We propose a dynamic Gaussian Splatting method named ManiGaussian for multi-task robotic manipulation, which mines scene dynamics via future scene reconstruction.
