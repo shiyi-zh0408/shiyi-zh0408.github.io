@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shiyi Zhang"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,3 +12,7 @@ I'm currently a 1st-year PHD student in Tsinghua University Shenzhen Internation
 My research interests lie in Computer Vision, such as Video Understanding, and Embodied Visual Perception.
 
 [Email](mailto:sy-zhang23@mails.tsinghua.edu.cn) / [Github](https://github.com/shiyi-zh0408)
+
+---
+Research
+---
