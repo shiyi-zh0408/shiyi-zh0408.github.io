@@ -14,14 +14,30 @@ My research interests lie in Computer Vision, such as Video Understanding, and E
 [Email](mailto:sy-zhang23@mails.tsinghua.edu.cn) / [Github](https://github.com/shiyi-zh0408)
 
 ---
-News
+# News
 ---
 * 2024-03: One paper on video understanding (Narrative Action Evaluation) is accepted to [CVPR 2024](https://cvpr.thecvf.com/)
 * 2023-03: One paper on video understanding (Action Quality Assessment) is accepted to [CVPR 2023](https://cvpr.thecvf.com/Conferences/2023)
+
 ---
-Research
+# Research
 ---
 <!--Paper 1-->
+<div class="row">   
+    <div class="column" style="float:none;margin:0 auto;text-align:center;"> 
+     	  <img src="../images/maga.png" style="margin-bottom:10px;">
+    </div>
+    <div class="column" style="float:none;width:100%;text-align:center;">    
+        <p style="font-size: smaller;">
+            <b>ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation</b><br>
+            Guanxing Lu, <b>Shiyi Zhang</b>, Ziwei Wang, Changliu Liu, Jiwen Lu and Yansong Tang.<br>
+            <i>Preprint</i><br>
+            <br>
+            We propose a dynamic Gaussian Splatting method named ManiGaussian for multi-task robotic manipulation, which mines scene dynamics via future scene reconstruction.
+        </p>
+    </div> 
+</div>
+
 <div class="row">   
     <div class="column" style="float:left;width:25%"> 
      	  <img src="../images/maga.png">
