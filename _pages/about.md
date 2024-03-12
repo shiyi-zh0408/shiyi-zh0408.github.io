@@ -23,6 +23,45 @@ My research interests lie in Computer Vision, such as Video Understanding, and E
 # Research
 ---
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>	
+  <!--ManiGaussian-->
+  <tr>
+    <td style="padding:20px;width:30%;max-width:30%" align="center">
+      <img style="width:100%;max-width:100%" src="../images/maga.png" alt="dise">
+    </td>
+    <td width="75%" valign="center">
+      <papertitle>ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation</papertitle>
+      <br>
+      Guanxing Lu, <b>Shiyi Zhang</b>, Ziwei Wang, Changliu Liu, Jiwen Lu and Yansong Tang.
+      <br>
+      <em>Preprint</em>
+      <br>
+      <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_LOGO_A_Long-Form_Video_Dataset_for_Group_Action_Quality_Assessment_CVPR_2023_paper.pdf">[PDF]</a>
+      <a href="https://github.com/shiyi-zh0408/LOGO">[Project Page]</a> 
+      <br>
+      <p> We propose a dynamic Gaussian Splatting method named ManiGaussian for multi-task robotic manipulation, which mines scene dynamics via future scene reconstruction.</p>
+    </td>
+  </tr>	
+
+  <!--NAE-->
+  <tr>
+    <td style="padding:20px;width:30%;max-width:30%" align="center">
+      <img style="width:100%;max-width:100%" src="../images/nae.png" alt="dise">
+    </td>
+    <td width="75%" valign="center">
+      <papertitle>Narrative Action Evaluation with Prompt-Guided Multimodal Interaction</papertitle>
+      <br>
+      Shiyi Zhang*</b>, Sule Bai*, Guangyi Chen, Lei Chen, Jiwen Lu, Junle Wang, Yansong Tang
+      <br>
+      <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</em>, 2024
+      <br>
+      <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_LOGO_A_Long-Form_Video_Dataset_for_Group_Action_Quality_Assessment_CVPR_2023_paper.pdf">[PDF]</a>
+      <a href="https://github.com/shiyi-zh0408/LOGO">[Project Page]</a> 
+      <br>
+      <p> We investigate a new problem called narrative action evaluation (NAE) and propose a prompt-guided multimodal interaction framework.</p>
+    </td>
+  </tr>	
+
+  <!--LOGO-->
   <tr>
     <td style="padding:20px;width:30%;max-width:30%" align="center">
       <img style="width:100%;max-width:100%" src="../images/logo.png" alt="dise">
@@ -42,50 +81,7 @@ My research interests lie in Computer Vision, such as Video Understanding, and E
   </tr>	
 </tbody></table>
 
-<div class="row" style="text-align:center;">   
-    <div class="column" style="display:inline-block;text-align:center;"> 
-     	  <img src="../images/maga.png" style="margin-bottom:10px;display:block;margin-left:auto;margin-right:auto;">
-    </div>
-    <div class="column" style="display:inline-block;text-align:center;">    
-        <p style="font-size: smaller;text-align:left;display:inline-block;">
-            <b>ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation</b><br>
-            Guanxing Lu, <b>Shiyi Zhang</b>, Ziwei Wang, Changliu Liu, Jiwen Lu and Yansong Tang.<br>
-            <i>Preprint</i><br>
-            <br>
-            We propose a dynamic Gaussian Splatting method named ManiGaussian for multi-task robotic manipulation, which mines scene dynamics via future scene reconstruction.
-        </p>
-    </div> 
-</div>
-
-<!--Paper 1-->
-<div class="row" style="text-align:center;">   
-    <div class="column" style="display:inline-block;"> 
-     	  <img src="../images/maga.png" style="margin-bottom:10px;">
-    </div>
-    <div class="column" style="display:inline-block;">    
-        <p style="font-size: smaller;">
-            <b>ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation</b><br>
-            Guanxing Lu, <b>Shiyi Zhang</b>, Ziwei Wang, Changliu Liu, Jiwen Lu and Yansong Tang.<br>
-            <i>Preprint</i><br>
-            <br>
-            We propose a dynamic Gaussian Splatting method named ManiGaussian for multi-task robotic manipulation, which mines scene dynamics via future scene reconstruction.
-        </p>
-    </div> 
-</div>
-
-<div class="row">   
-    <div class="column" style="float:left;width:25%"> 
-     	  <img src="../images/maga.png">
-    </div>
-    <div class="column" style="float:left;width:75%">    
-        <b>ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation</b><br>
-        Guanxing Lu, <b>Shiyi Zhang</b>, Ziwei Wang, Changliu Liu, Jiwen Lu and Yansong Tang.<br>
-        <i>Preprint</i><br>
-        <br>
-        We propose a dynamic Gaussian Splatting method named ManiGaussian for multi-task robotic manipulation, which mines scene dynamics via future scene reconstruction.
-    </div> 
-</div>
-
+<!--
 <!--Paper 2-->
 <div class="row">   
     <div class="column" style="float:left;width:25%"> 
@@ -113,4 +109,5 @@ My research interests lie in Computer Vision, such as Video Understanding, and E
         LOGO is a new multi-person long-form video dataset for action quality assessment.
     </div> 
 </div>
+-->
 
