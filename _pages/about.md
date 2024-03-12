@@ -14,15 +14,20 @@ My research interests lie in Computer Vision, such as Video Understanding, and E
 [Email](mailto:sy-zhang23@mails.tsinghua.edu.cn) / [Github](https://github.com/shiyi-zh0408)
 
 ---
-Research
+permalink: /
+title: "Research"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 <!--Paper 1-->
-<div class="row">   
-    <div class="column" style="float:left;width:25%"> 
-     	  <img src="../images/zhang.png">
-    </div>
-    <div class="column" style="float:left;width:75%">    
-        This is a test word.  
-    </div> 
-</div>
+# <div class="row">   
+#     <div class="column" style="float:left;width:25%"> 
+#      	  <img src="../images/zhang.png">
+#     </div>
+#     <div class="column" style="float:left;width:75%">    
+#         This is a test word.  
+#     </div> 
+# </div>
 
