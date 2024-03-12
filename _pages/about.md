@@ -16,8 +16,8 @@ My research interests lie in Computer Vision, such as Video Understanding, and E
 ---
 # News
 ---
-* 2024-03: One paper on video understanding (Narrative Action Evaluation) is accepted to [CVPR 2024](https://cvpr.thecvf.com/)
-* 2023-03: One paper on video understanding (Action Quality Assessment) is accepted to [CVPR 2023](https://cvpr.thecvf.com/Conferences/2023)
+* <span style="font-size: smaller;">2024-03: One paper on video understanding (Narrative Action Evaluation) is accepted to [CVPR 2024](https://cvpr.thecvf.com/)</span>
+* <span style="font-size: smaller;">2023-03: One paper on video understanding (Action Quality Assessment) is accepted to [CVPR 2023](https://cvpr.thecvf.com/Conferences/2023)</span>
 
 ---
 # Research
@@ -50,7 +50,7 @@ My research interests lie in Computer Vision, such as Video Understanding, and E
     <td width="75%" valign="center">
       <papertitle>Narrative Action Evaluation with Prompt-Guided Multimodal Interaction</papertitle>
       <br>
-      Shiyi Zhang*</b>, Sule Bai*, Guangyi Chen, Lei Chen, Jiwen Lu, Junle Wang, Yansong Tang
+      <b>Shiyi Zhang*</b>, Sule Bai*, Guangyi Chen, Lei Chen, Jiwen Lu, Junle Wang, Yansong Tang
       <br>
       <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</em>, 2024
       <br>
@@ -69,7 +69,7 @@ My research interests lie in Computer Vision, such as Video Understanding, and E
     <td width="75%" valign="center">
       <papertitle>LOGO: A Long-Form Video Dataset for Group Action Quality Assessment</papertitle>
       <br>
-      Shiyi Zhang, Wenxun Dai, Sujia Wang, Xiangwei Shen, Jiwen Lu, Jie Zhou, <strong>Yansong Tang#</strong>
+      <b>Shiyi Zhang</b>, Wenxun Dai, Sujia Wang, Xiangwei Shen, Jiwen Lu, Jie Zhou, Yansong Tang
       <br>
       <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</em>, 2023
       <br>
