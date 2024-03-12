@@ -22,13 +22,14 @@ repository               : "shiyi-zh0408/shiyi-zh0408.github.io"
 author:
   # Biographic information
   avatar           : "zhang.png"
-  name             : "Your Sidebar Name"
+  name             : "Shiyi Zhang (张世乙)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Easy choices, hard life. \n\
+                      Hard choices, easy life."
+  location         : "China"
+  employer         : "Tsinghua University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sy-zhang23@mails.tsinghua.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
