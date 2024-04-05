@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "👋 About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -55,7 +55,7 @@ My research interests lie in Computer Vision, such as Video Understanding, Video
       <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</em>, 2024
       <br>
       <a href="">[PDF]</a>
-      <a href="https://github.com/shiyi-zh0408/NAE_CVPR24">[Project Page]</a> 
+      <a href="https://github.com/shiyi-zh0408/NAE_CVPR2024">[Project Page]</a> 
       <br>
       <p> We investigate a new problem called narrative action evaluation (NAE) and propose a prompt-guided multimodal interaction framework.</p>
     </td>
