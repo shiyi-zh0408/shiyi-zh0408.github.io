@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a 1st-year PHD student in Tsinghua University Shenzhen International Graduate School, supervised by Prof. [Yansong Tang](https://andytang15.github.io/) and Prof. [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/biography.html). I got my bachelor's degree from the Department of Automation, Tsinghua University in 2023.
+I'm currently a 1st-year PhD student at Tsinghua University Shenzhen International Graduate School, supervised by Prof. [Yansong Tang](https://andytang15.github.io/) and Prof. [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/biography.html). I got my bachelor's degree from the Department of Automation, Tsinghua University in 2023.
 
-My research interests lie in Computer Vision, such as Video Understanding, and Embodied Visual Perception.
+My research interests lie in Computer Vision, such as Video Understanding, Video Generation, and Embodied Visual Perception.
 
 [Email](mailto:sy-zhang23@mails.tsinghua.edu.cn) / [Github](https://github.com/shiyi-zh0408)
 
@@ -54,8 +54,8 @@ My research interests lie in Computer Vision, such as Video Understanding, and E
       <br>
       <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</em>, 2024
       <br>
-      <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_LOGO_A_Long-Form_Video_Dataset_for_Group_Action_Quality_Assessment_CVPR_2023_paper.pdf">[PDF]</a>
-      <a href="https://github.com/shiyi-zh0408/LOGO">[Project Page]</a> 
+      <a href="">[PDF]</a>
+      <a href="https://github.com/shiyi-zh0408/NAE_CVPR24">[Project Page]</a> 
       <br>
       <p> We investigate a new problem called narrative action evaluation (NAE) and propose a prompt-guided multimodal interaction framework.</p>
     </td>
