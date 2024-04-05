@@ -11,7 +11,7 @@ I'm currently a 1st-year PhD student at Tsinghua University Shenzhen Internation
 
 My research interests lie in Computer Vision, such as Video Understanding, Video Generation, and Embodied Visual Perception.
 
-<p align="center">[Email](mailto:sy-zhang23@mails.tsinghua.edu.cn) / [Github](https://github.com/shiyi-zh0408)</p>
+[Email](mailto:sy-zhang23@mails.tsinghua.edu.cn) / [Github](https://github.com/shiyi-zh0408)
 
 ---
 # ✨ News
