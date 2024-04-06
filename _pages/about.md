@@ -35,8 +35,8 @@ My research interests lie in Computer Vision, such as Video Understanding, Video
       <br>
       <em>Preprint</em>
       <br>
-      <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_LOGO_A_Long-Form_Video_Dataset_for_Group_Action_Quality_Assessment_CVPR_2023_paper.pdf">[PDF]</a>
-      <a href="https://github.com/shiyi-zh0408/LOGO">[Project Page]</a> 
+      <a href="https://arxiv.org/pdf/2403.08321.pdf">[PDF]</a>
+      <a href="https://github.com/GuanxingLu/ManiGaussian">[Project Page]</a> 
       <br>
       <p> We propose a dynamic Gaussian Splatting method named ManiGaussian for multi-task robotic manipulation, which mines scene dynamics via future scene reconstruction.</p>
     </td>
