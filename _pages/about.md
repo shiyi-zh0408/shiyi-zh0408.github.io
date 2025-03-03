@@ -7,15 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a 1st-year PhD student at Tsinghua University Shenzhen International Graduate School, supervised by Prof. [Yansong Tang](https://andytang15.github.io/) and Prof. [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/biography.html). I got my bachelor's degree from the Department of Automation, Tsinghua University in 2023.
+I'm currently a 2nd-year PhD student at Tsinghua University Shenzhen International Graduate School, supervised by Prof. [Yansong Tang](https://andytang15.github.io/) and Prof. [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/biography.html). I got my bachelor's degree from the Department of Automation, Tsinghua University in 2023.
 
-My research interests lie in Computer Vision, such as Video Understanding, Video Generation, and Embodied Visual Perception.
+My research interests lie in Computer Vision, such as Video Generation, Video Understanding.
 
 [Email](mailto:sy-zhang23@mails.tsinghua.edu.cn) / [Github](https://github.com/shiyi-zh0408)
 
 ---
 # ✨ News
 ---
+* <span style="font-size: smaller;">2024-07: One paper on Embodied Vision is accepted to [ECCV 2024](https://eccv.ecva.net/)</span>
 * <span style="font-size: smaller;">2024-03: One paper on video understanding (Narrative Action Evaluation) is accepted to [CVPR 2024](https://cvpr.thecvf.com/)</span>
 * <span style="font-size: smaller;">2023-03: One paper on video understanding (Action Quality Assessment) is accepted to [CVPR 2023](https://cvpr.thecvf.com/Conferences/2023)</span>
 
@@ -23,22 +24,42 @@ My research interests lie in Computer Vision, such as Video Understanding, Video
 # 🔬 Research
 ---
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>	
-  <!--ManiGaussian-->
+
+  <!--FlexiAct-->
   <tr>
     <td style="padding:20px;width:30%;max-width:30%" align="center">
-      <img style="width:100%;max-width:100%" src="../images/maga.png" alt="dise">
+      <img style="width:100%;max-width:100%" src="../images/nae.png" alt="dise">
     </td>
     <td width="75%" valign="center">
-      <papertitle>ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation</papertitle>
+      <papertitle>FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios</papertitle>
       <br>
-      Guanxing Lu, <b>Shiyi Zhang</b>, Ziwei Wang, Changliu Liu, Jiwen Lu and Yansong Tang.
+      <b>Shiyi Zhang*</b>, Junhao Zhuang*, Zhaoyang Zhang, Yansong Tang
       <br>
-      <em>Preprint</em>
+      Preprint
+<!--       <br>
+      <a href="">[PDF]</a>
+      <a href="https://github.com/shiyi-zh0408/NAE_CVPR2024">[Project Page]</a> 
+      <br> -->
+      <p> We achieve action transfer in heterogeneous scenarios with varying spatial structures or cross-domain subjects.</p>
+    </td>
+  </tr>	
+
+  <!--KV-Edit-->
+  <tr>
+    <td style="padding:20px;width:30%;max-width:30%" align="center">
+      <img style="width:100%;max-width:100%" src="../images/nae.png" alt="dise">
+    </td>
+    <td width="75%" valign="center">
+      <papertitle>KV-Edit: Training-Free Image Editing for Precise Background Preservation</papertitle>
       <br>
-      <a href="https://arxiv.org/pdf/2403.08321.pdf">[PDF]</a>
-      <a href="https://github.com/GuanxingLu/ManiGaussian">[Project Page]</a> 
+      Tianrui Zhu*, <b>Shiyi Zhang</b>, Jiawei Shao, Yansong Tang
       <br>
-      <p> We propose a dynamic Gaussian Splatting method named ManiGaussian for multi-task robotic manipulation, which mines scene dynamics via future scene reconstruction.</p>
+      Preprint
+<!--       <br>
+      <a href="">[PDF]</a>
+      <a href="https://github.com/shiyi-zh0408/NAE_CVPR2024">[Project Page]</a> 
+      <br> -->
+      <p> We propose KV-Edit to address the challenge of background preservation in image editing by preserving the key-value pairs of the background, which effectively handles common semantic editing.</p>
     </td>
   </tr>	
 
@@ -79,5 +100,26 @@ My research interests lie in Computer Vision, such as Video Understanding, Video
       <p> LOGO is a new multi-person long-form video dataset for action quality assessment.</p>
     </td>
   </tr>	
+
+  <!--ManiGaussian-->
+  <tr>
+    <td style="padding:20px;width:30%;max-width:30%" align="center">
+      <img style="width:100%;max-width:100%" src="../images/maga.png" alt="dise">
+    </td>
+    <td width="75%" valign="center">
+      <papertitle>ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation</papertitle>
+      <br>
+      Guanxing Lu, <b>Shiyi Zhang</b>, Ziwei Wang, Changliu Liu, Jiwen Lu and Yansong Tang.
+      <br>
+      <em>European Conference on Computer Vision (<strong>ECCV</strong>), 2024</em>
+      <br>
+      <a href="https://arxiv.org/pdf/2403.08321.pdf">[PDF]</a>
+      <a href="https://github.com/GuanxingLu/ManiGaussian">[Project Page]</a> 
+      <br>
+      <p> We propose a dynamic Gaussian Splatting method named ManiGaussian for multi-task robotic manipulation, which mines scene dynamics via future scene reconstruction.</p>
+    </td>
+  </tr>	
+
+
 </tbody></table>
 
