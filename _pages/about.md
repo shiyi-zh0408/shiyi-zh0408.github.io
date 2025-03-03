@@ -57,8 +57,8 @@ My research interests lie in Computer Vision, such as Video Generation, Video Un
       <br>
       Preprint
       <br>
-      <a href="">[PDF]</a>
-      <a href="https://github.com/shiyi-zh0408/NAE_CVPR2024">[Project Page]</a> 
+      <a href="https://arxiv.org/pdf/2502.17363">[PDF]</a>
+      <a href="https://xilluill.github.io/projectpages/KV-Edit/">[Project Page]</a> 
       <br>
       <p> We propose KV-Edit to address the challenge of background preservation in image editing by preserving the key-value pairs of the background, which effectively handles common semantic editing.</p>
     </td>
@@ -76,7 +76,7 @@ My research interests lie in Computer Vision, such as Video Generation, Video Un
       <br>
       <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>)</em>, 2024
       <br>
-      <a href="">[PDF]</a>
+      <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Narrative_Action_Evaluation_with_Prompt-Guided_Multimodal_Interaction_CVPR_2024_paper.pdf">[PDF]</a>
       <a href="https://github.com/shiyi-zh0408/NAE_CVPR2024">[Project Page]</a> 
       <br>
       <p> We investigate a new problem called narrative action evaluation (NAE) and propose a prompt-guided multimodal interaction framework.</p>
