@@ -29,7 +29,7 @@ My research interests lie in Computer Vision, such as Video Generation, Video Un
   <!--FlexiAct-->
   <tr>
     <td style="padding:20px;width:30%;max-width:30%" align="center">
-      <img style="width:100%;max-width:100%" src="../images/nae.png" alt="dise">
+      <img style="width:100%;max-width:100%" src="../images/method.jpg" alt="dise">
     </td>
     <td width="75%" valign="center">
       <papertitle>FlexiAct: Towards Flexible Action Control in Heterogeneous Scenarios</papertitle>
@@ -48,7 +48,7 @@ My research interests lie in Computer Vision, such as Video Generation, Video Un
   <!--KV-Edit-->
   <tr>
     <td style="padding:20px;width:30%;max-width:30%" align="center">
-      <img style="width:100%;max-width:100%" src="../images/nae.png" alt="dise">
+      <img style="width:100%;max-width:100%" src="../images/kvedit.jpg" alt="dise">
     </td>
     <td width="75%" valign="center">
       <papertitle>KV-Edit: Training-Free Image Editing for Precise Background Preservation</papertitle>
