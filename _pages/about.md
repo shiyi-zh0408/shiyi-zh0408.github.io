@@ -23,6 +23,7 @@ My research interests lie in Computer Vision, such as Video Generation, Video Un
 ---
 # 🔬 Research
 ---
+* indicates equal contribution
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>	
 
   <!--FlexiAct-->
@@ -52,13 +53,13 @@ My research interests lie in Computer Vision, such as Video Generation, Video Un
     <td width="75%" valign="center">
       <papertitle>KV-Edit: Training-Free Image Editing for Precise Background Preservation</papertitle>
       <br>
-      Tianrui Zhu*, <b>Shiyi Zhang</b>, Jiawei Shao, Yansong Tang
+      Tianrui Zhu*, <b>Shiyi Zhang*</b>, Jiawei Shao, Yansong Tang
       <br>
       Preprint
-<!--       <br>
+      <br>
       <a href="">[PDF]</a>
       <a href="https://github.com/shiyi-zh0408/NAE_CVPR2024">[Project Page]</a> 
-      <br> -->
+      <br>
       <p> We propose KV-Edit to address the challenge of background preservation in image editing by preserving the key-value pairs of the background, which effectively handles common semantic editing.</p>
     </td>
   </tr>	
