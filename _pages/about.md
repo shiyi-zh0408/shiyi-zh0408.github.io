@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a 2nd-year PhD student at Tsinghua University Shenzhen International Graduate School, supervised by Prof. [Yansong Tang](https://andytang15.github.io/) and Prof. [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/biography.html). I got my bachelor's degree from the Department of Automation, Tsinghua University in 2023.
+I'm currently a 2nd-year PhD student at Tsinghua University Shenzhen International Graduate School, supervised by Prof. [Yansong Tang](https://andytang15.github.io/) and Prof. [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/biography.html). I got my bachelor's degree from the Department of Automation, Tsinghua University, in 2023.
 
 My research interests lie in Computer Vision, such as Video Generation, Video Understanding.
 
@@ -39,7 +39,7 @@ My research interests lie in Computer Vision, such as Video Generation, Video Un
       <br>
       <em>ACM SIGGRAPH (<strong>SIGGRAPH</strong>), 2025</em>
       <br>
-      <a href="">[PDF]</a>
+      <a href="https://arxiv.org/abs/2505.03730">[PDF]</a>
       <a href="https://github.com/shiyi-zh0408/FlexiAct">[Project Page]</a> 
       <br>
       <p> We achieve action transfer in heterogeneous scenarios with varying spatial structures or cross-domain subjects.</p>
