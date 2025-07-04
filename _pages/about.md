@@ -17,7 +17,7 @@ My research interests lie in Computer Vision, such as Video Generation, Video Un
 # ✨ News
 ---
 * <span style="font-size: smaller;">2025-06: One paper on Image Editing is accepted to [ICCV 2025](https://iccv.thecvf.com/)</span>
-* <span style="font-size: smaller;">2025-04: One paper on Controllable Video Generation is accepted to [Siggraph 2025](https://www.siggraph.org/siggraph-events/conferences/)</span>
+* <span style="font-size: smaller;">2025-04: One paper on Controllable Video Generation is accepted to [SIGGRAPH 2025](https://www.siggraph.org/siggraph-events/conferences/)</span>
 * <span style="font-size: smaller;">2024-07: One paper on Embodied Vision is accepted to [ECCV 2024](https://eccv.ecva.net/)</span>
 * <span style="font-size: smaller;">2024-03: One paper on video understanding (Narrative Action Evaluation) is accepted to [CVPR 2024](https://cvpr.thecvf.com/)</span>
 * <span style="font-size: smaller;">2023-03: One paper on video understanding (Action Quality Assessment) is accepted to [CVPR 2023](https://cvpr.thecvf.com/Conferences/2023)</span>
